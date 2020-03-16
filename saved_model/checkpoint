@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/minhaj/Unduhan/mysum3-20200315T084652Z-001/mysum3/saved_model/model.ckpt-3570"
+all_model_checkpoint_paths: "/home/minhaj/Unduhan/mysum3-20200315T084652Z-001/mysum3/saved_model/model.ckpt-3570"
